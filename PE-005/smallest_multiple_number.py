@@ -40,23 +40,21 @@ def find_smallest_multiple_number_v2():
     return smallest_multiple_number
 
 
-
-
 if __name__ == "__main__":
     import time
-    # print("find_smallest_multiple_number_v1 result:")
-    # start = time.time()
-    # print(find_smallest_multiple_number_v1())
-    # done = time.time()
-    # elapsed = done - start
-    # print("elapsed time: {}s".format(elapsed))
+    print("find_smallest_multiple_number_v1 result:")
+    start = time.time()
+    print(find_smallest_multiple_number_v1())
+    done = time.time()
+    elapsed = done - start
+    print("elapsed time: {}s".format(elapsed))
 
-    # print("find_smallest_multiple_number_v2 result:")
-    # start = time.time()
-    # print(find_smallest_multiple_number_v2())
-    # done = time.time()
-    # elapsed = done - start
-    # print("elapsed time: {}s".format(elapsed))
+    print("find_smallest_multiple_number_v2 result:")
+    start = time.time()
+    print(find_smallest_multiple_number_v2())
+    done = time.time()
+    elapsed = done - start
+    print("elapsed time: {}s".format(elapsed))
 
     print("find_smallest_multiple_number_v3 result:")
     start = time.time()
