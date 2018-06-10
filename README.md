@@ -3,8 +3,6 @@ Solve project euler problem by python and math.
 
 Giải các bài toán trên trang projecteuler.net bằng Python và tư duy toán học.
 
-
-
 [Project Euler](https://projecteuler.net/) là một loạt các bài toán liên quan đến ứng dụng toán học, tư duy logic và lập trình.
 
 Trong nhiều trường hợp, bạn có thể tạo ra một giải pháp "trâu bò" để ra được kết quả.
@@ -45,7 +43,7 @@ Danh sách các bài viết phân tích chiến thuật giải các bài toán t
                     <a href="https://projecteuler.net/problem=1">Problem 001</a>
                 </td>
                 <td>
-                    <a href="/2018-06-08-Python-Project-Euler-PE001-Multiples-of-3-and-5/">Multiples of 3 and 5</a>
+                    <a href="https://quangvinh86.github.io/2018-06-08-Python-Project-Euler-PE001-Multiples-of-3-and-5/">Multiples of 3 and 5</a>
                 </td>
                 <td>
                     233168
@@ -62,7 +60,7 @@ Danh sách các bài viết phân tích chiến thuật giải các bài toán t
                     <a href="https://projecteuler.net/problem=2">Problem 002</a>
                 </td>
                 <td>
-                    <a href="/2018-06-08-Python-Project-Euler-PE002-Even-Fibonacci-numbers/">Even-Fibonacci-numbers</a>
+                    <a href="https://quangvinh86.github.io/2018-06-08-Python-Project-Euler-PE002-Even-Fibonacci-numbers/">Even-Fibonacci-numbers</a>
                 </td>
                 <td>
                     4613732
@@ -79,7 +77,7 @@ Danh sách các bài viết phân tích chiến thuật giải các bài toán t
                     <a href="https://projecteuler.net/problem=3">Problem 003</a>
                 </td>
                 <td>
-                    <a href="/2018-06-08-Python-Project-Euler-PE003-Largest-prime-factor/">Largest-prime-factor</a>
+                    <a href="https://quangvinh86.github.io/2018-06-08-Python-Project-Euler-PE003-Largest-prime-factor/">Largest-prime-factor</a>
                 </td>
                 <td>
                     6857
@@ -96,7 +94,7 @@ Danh sách các bài viết phân tích chiến thuật giải các bài toán t
                     <a href="https://projecteuler.net/problem=4">Problem 004</a>
                 </td>
                 <td>
-                    <a href="2018-06-09-Python-Project-Euler-PE004-Largest-palindrome-product ">Largest-palindrome-product</a>
+                    <a href="https://quangvinh86.github.io/2018-06-09-Python-Project-Euler-PE004-Largest-palindrome-product ">Largest-palindrome-product</a>
                 </td>
                 <td>
                     906609
@@ -113,7 +111,7 @@ Danh sách các bài viết phân tích chiến thuật giải các bài toán t
                     <a href="https://projecteuler.net/problem=5">Problem 005</a>
                 </td>
                 <td>
-                    <a href="2018-06-10-Python-Project-Euler-PE005-Smallest-multiple ">Smallest-multiple</a>
+                    <a href="https://quangvinh86.github.io/2018-06-10-Python-Project-Euler-PE005-Smallest-multiple ">Smallest-multiple</a>
                 </td>
                 <td>
                     4613732
@@ -130,7 +128,7 @@ Danh sách các bài viết phân tích chiến thuật giải các bài toán t
                     <a href="https://projecteuler.net/problem=6">Problem 006</a>
                 </td>
                 <td>
-                    <a href="/2018-06-10-Python-Project-Euler-PE006-Sum-square-difference">Sum-square-difference</a>
+                    <a href="https://quangvinh86.github.io/2018-06-10-Python-Project-Euler-PE006-Sum-square-difference">Sum-square-difference</a>
                 </td>
                 <td>
                     25164150
@@ -147,7 +145,7 @@ Danh sách các bài viết phân tích chiến thuật giải các bài toán t
                     <a href="https://projecteuler.net/problem=7">Problem 007</a>
                 </td>
                 <td>
-                    <a href="/2018-06-10-Python-Project-Euler-PE007-10001st-prime/">10001st-prime</a>
+                    <a href="https://quangvinh86.github.io/2018-06-10-Python-Project-Euler-PE007-10001st-prime/">10001st-prime</a>
                 </td>
                 <td>
                     104743
@@ -159,7 +157,24 @@ Danh sách các bài viết phân tích chiến thuật giải các bài toán t
                     0.188479185104s
                 </td>
             </tr>
-             <!-- <tr>
+             <tr>
+                <td>
+                    <a href="https://projecteuler.net/problem=8">Problem 008</a>
+                </td>
+                <td>
+                    <a href="https://quangvinh86.github.io/2018-06-10-Python-Project-Euler-PE008-Largest-product-in-a-series/">Largest-product-in-a-series</a>
+                </td>
+                <td>
+                    23514624000
+                </td>
+                <td>
+                    <a href="https://github.com/quangvinh86/python-projecteuler/tree/master/PE-008">Code Python</a>
+                </td>
+                <td>
+                    0.0036547183990478516s
+                </td>
+            </tr>
+            <!-- <tr>
                 <td>
                     <a href="https://projecteuler.net/problem=3">Problem 003</a>
                 </td>
