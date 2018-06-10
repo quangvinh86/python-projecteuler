@@ -1,3 +1,10 @@
+"""
+Solution to Project Euler problem 1
+@author: vinh.nguyenquang
+@email: quangvinh19862003@gmail.com
+
+"""
+
 def multiples_3_or_5_v1():
     sum_all = 0
     for number in range(3, 1000):

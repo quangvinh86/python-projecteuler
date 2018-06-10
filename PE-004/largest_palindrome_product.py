@@ -1,3 +1,10 @@
+"""
+Solution to Project Euler problem 4
+@author: vinh.nguyenquang
+@email: quangvinh19862003@gmail.com
+
+"""
+
 def make_palindrome_number(first_half):
     return int(str(first_half) + str(first_half)[::-1])
 

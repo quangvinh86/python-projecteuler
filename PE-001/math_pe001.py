@@ -1,3 +1,10 @@
+"""
+Solution to Project Euler problem 1
+@author: vinh.nguyenquang
+@email: quangvinh19862003@gmail.com
+
+"""
+
 def sum_divisble_by(number, max_number):
     return number * (max_number // number) * (max_number // number + 1) / 2
 

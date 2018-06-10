@@ -1,3 +1,10 @@
+"""
+Solution to Project Euler problem 3
+@author: vinh.nguyenquang
+@email: quangvinh19862003@gmail.com
+
+"""
+
 import math
 from prime import is_prime
 

@@ -1,3 +1,10 @@
+"""
+Solution to Project Euler problem 2
+@author: vinh.nguyenquang
+@email: quangvinh19862003@gmail.com
+
+"""
+
 def sum_fibonacci_under_4_million():
     fi_1st = 1
     fi_2nd = 2
