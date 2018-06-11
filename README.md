@@ -3,16 +3,18 @@ Solve project euler problem by python and math.
 
 Giải các bài toán trên trang projecteuler.net bằng Python và tư duy toán học.
 
-[Project Euler](https://projecteuler.net/) là một loạt các bài toán liên quan đến ứng dụng toán học, tư duy logic và lập trình.
 
-Trong nhiều trường hợp, bạn có thể tạo ra một giải pháp "trâu bò" để ra được kết quả.
+
+[Project Euler](https://projecteuler.net/) là một loạt các bài toán liên quan đến ứng dụng toán học, tư duy logic và lập trình. 
+
+Trong nhiều trường hợp, bạn có thể tạo ra một giải pháp "trâu bò" để ra được kết quả. 
 
 Nếu bạn thực sự muốn tạo ra các giải pháp tốt, tối ưu về giải thuật và thời gian chạy nhanh chóng, bạn cần nghiên cứu một số giải thuật toán học đằng sau các vấn đề.
 
 Việc tối ưu được một bài toán từ PE sẽ giúp người thực hiện có một "bước tiến" trong tư duy logic và ứng dụng ngôn ngữ lập trình.
 
 
-Cá nhân tôi thích "toán học" và tôi lựa chọn Python để giải quyết các bài toán trên PE.
+Cá nhân tôi thích "toán học" và tôi lựa chọn Python để giải quyết các bài toán trên PE. 
 
 Về code Python, tôi sẽ thực hiện tối đa "Clean code" và code theo đúng chuẩn PEP8.
 
@@ -172,6 +174,23 @@ Danh sách các bài viết phân tích chiến thuật giải các bài toán t
                 </td>
                 <td>
                     0.0036547183990478516s
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://projecteuler.net/problem=9">Problem 009</a>
+                </td>
+                <td>
+                    <a href="/2018-06-11-Python-Project-Euler-PE009-Pythagorean-triplets/">Pythagorean-triplets</a>
+                </td>
+                <td>
+                    4613732
+                </td>
+                <td>
+                    <a href="https://github.com/quangvinh86/python-projecteuler/tree/master/PE-009">Code Python</a>
+                </td>
+                <td>
+                    0.02037191390991211s
                 </td>
             </tr>
             <!-- <tr>
