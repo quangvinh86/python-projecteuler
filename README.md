@@ -1,8 +1,3 @@
-# python-projecteuler
-Solve project euler problem by python and math.
-
-Giải các bài toán trên trang projecteuler.net bằng Python và tư duy toán học.
-
 
 [Project Euler](https://projecteuler.net/) là một loạt các bài toán liên quan đến ứng dụng toán học, tư duy logic và lập trình. 
 
@@ -13,27 +8,29 @@ Nếu bạn thực sự muốn tạo ra các giải pháp tốt, tối ưu về 
 Việc tối ưu được một bài toán từ PE sẽ giúp người thực hiện có một "bước tiến" trong tư duy logic và ứng dụng ngôn ngữ lập trình.
 
 
-Cá nhân tôi thích "toán học" (mặc dù không giỏi toán) và tôi lựa chọn Python để giải quyết các bài toán trên PE. 
+Cá nhân tôi thích "toán học" (mặc dù không giỏi toán) và tôi lựa chọn Python để giải quyết các bài toán trên PE.
 
-Về code Python, tôi sẽ thực hiện tối đa "Clean code" và code theo đúng chuẩn PEP8.
+Tại sao lại là Python mà không phải C++/C# hay Java?  Vì Python là ngôn ngữ lập trình đưa tôi đến với Pymi.vn và projecteuler.net
 
-Danh sách các bài viết phân tích chiến thuật giải các bài toán trên https://projecteuler.net/
+Về code Python, tôi sẽ thực hiện code theo đúng chuẩn PEP8 (tối đa).
+
+Danh sách các bài viết phân tích chiến thuật giải các bài toán trên https://projecteuler.net/ (liên tục cập nhật ít nhất 1 ngày/1 bài)
 
 <div class="table-responsive">
     <table  class="table table-striped table-bordered table-hover table-condensed">
         <tbody>
             <tr>
                 <td>
-                    Index
+                    Số thứ tự
                 </td>
                 <td>
-                    Name (and my explain)
+                    Giải thích
                 </td>
                 <td>
-                    Result
+                    Kết quả chạy
                 </td>
                 <td>
-                    Code Python
+                    Code Python & giải thích
                 </td>
                 <td>
                     Benchmark timings
@@ -307,3 +304,5 @@ P/S: Code Python run on my MacOS: (for Benchmark timings)
 **Memory** 8 GB 1867 MHz LPDDR3
 
 ![https://projecteuler.net/profile/vinhnq.png](https://projecteuler.net/profile/vinhnq.png)
+
+"Gạch đá" các loại có thể ném vào issue hoặc inbox của tôi :)
