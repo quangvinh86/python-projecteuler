@@ -10,11 +10,13 @@ Việc tối ưu được một bài toán từ PE sẽ giúp người thực hi
 
 Cá nhân tôi thích "toán học" (mặc dù không giỏi toán) và tôi lựa chọn Python để giải quyết các bài toán trên PE.
 
-Tại sao lại là Python mà không phải C++/C# hay Java?  Vì Python là ngôn ngữ lập trình đưa tôi đến với Pymi.vn và projecteuler.net
+Tại sao lại là Python mà không phải C++/C# hay Java? 
+
+Vì Python là ngôn ngữ lập trình đưa tôi đến với Pymi.vn và projecteuler.net
 
 Về code Python, tôi sẽ thực hiện code theo đúng chuẩn PEP8 (tối đa).
 
-Danh sách các bài viết phân tích chiến thuật giải các bài toán trên https://projecteuler.net/ (liên tục cập nhật ít nhất 1 ngày/1 bài)
+Danh sách các bài viết phân tích chiến thuật giải các bài toán trên https://projecteuler.net/ (Mục tiêu đặt ra là làm hết page-1, liên tục cập nhật ít nhất 1 ngày/1 bài)
 
 <div class="table-responsive">
     <table  class="table table-striped table-bordered table-hover table-condensed">
@@ -272,6 +274,23 @@ Danh sách các bài viết phân tích chiến thuật giải các bài toán t
                 </td>
                 <td>
                     1.7523188591003418s
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://projecteuler.net/problem=16">Problem 016</a>
+                </td>
+                <td>
+                    <a href="https://quangvinh86.github.io/2018-06-19-Python-Project-Euler-PE016-Power-digit-sum">Power-digit-sum</a>
+                </td>
+                <td>
+                    1366
+                </td>
+                <td>
+                    <a href="https://github.com/quangvinh86/python-projecteuler/tree/master/PE-016">Code Python</a>
+                </td>
+                <td>
+                    0.00020003318786621094s
                 </td>
             </tr>
             <!-- <tr>
