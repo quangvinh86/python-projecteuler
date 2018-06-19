@@ -13,7 +13,7 @@ Nếu bạn thực sự muốn tạo ra các giải pháp tốt, tối ưu về 
 Việc tối ưu được một bài toán từ PE sẽ giúp người thực hiện có một "bước tiến" trong tư duy logic và ứng dụng ngôn ngữ lập trình.
 
 
-Cá nhân tôi thích "toán học" và tôi lựa chọn Python để giải quyết các bài toán trên PE. 
+Cá nhân tôi thích "toán học" (mặc dù không giỏi toán) và tôi lựa chọn Python để giải quyết các bài toán trên PE. 
 
 Về code Python, tôi sẽ thực hiện tối đa "Clean code" và code theo đúng chuẩn PEP8.
 
@@ -243,7 +243,7 @@ Danh sách các bài viết phân tích chiến thuật giải các bài toán t
                     3.9072110652923584s
                 </td>
             </tr>
-            <tr>
+             <tr>
                 <td>
                     <a href="https://projecteuler.net/problem=13">Problem 013</a>
                 </td>
@@ -260,7 +260,24 @@ Danh sách các bài viết phân tích chiến thuật giải các bài toán t
                     9.775161743164062e-06s
                 </td>
             </tr>
-             <!-- <tr>
+             <tr>
+                <td>
+                    <a href="https://projecteuler.net/problem=14">Problem 014</a>
+                </td>
+                <td>
+                    <a href="https://quangvinh86.github.io/2018-06-18-Python-Project-Euler-PE014-Longest-Collatz-sequence">Longest-Collatz-sequence</a>
+                </td>
+                <td>
+                    837799
+                </td>
+                <td>
+                    <a href="https://github.com/quangvinh86/python-projecteuler/tree/master/PE-014">Code Python</a>
+                </td>
+                <td>
+                    1.7523188591003418s
+                </td>
+            </tr>
+            <!-- <tr>
                 <td>
                     <a href="https://projecteuler.net/problem=3">Problem 003</a>
                 </td>
