@@ -1,5 +1,4 @@
 
-
 [Project Euler](https://projecteuler.net/) là một loạt các bài toán liên quan đến ứng dụng toán học, tư duy logic và lập trình. 
 
 Trong nhiều trường hợp, bạn có thể tạo ra một giải pháp "trâu bò" để ra được kết quả. 
@@ -350,6 +349,23 @@ Danh sách các bài viết phân tích chiến thuật giải các bài toán t
                 </td>
                 <td>
                     0.000347137451171875s
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://projecteuler.net/problem=21">Problem 021</a>
+                </td>
+                <td>
+                    <a href="https://quangvinh86.github.io/2018-06-26-Python-Project-Euler-PE021-Amicable-numbers">Amicable-numbers</a>
+                </td>
+                <td>
+                    852810
+                </td>
+                <td>
+                    <a href="https://github.com/quangvinh86/python-projecteuler/tree/master/PE-021">Code Python</a>
+                </td>
+                <td>
+                    1.5143499374389648s
                 </td>
             </tr>
             <!-- <tr>
