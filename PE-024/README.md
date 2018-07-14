@@ -98,4 +98,4 @@ elapsed time: 2.47955322265625e-05s
 Con số về thời gian khá ấn tượng
 
 Source-code:
-[PE-023](https://github.com/quangvinh86/python-projecteuler/tree/master/PE-023)
+[PE-024](https://github.com/quangvinh86/python-projecteuler/tree/master/PE-024)
